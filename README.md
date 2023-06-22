@@ -9,7 +9,7 @@
 The are **2 projects** incorporated in this repository.
 The **backend** (Laravel) and the frontend, in react... titled **frontend**
 
-1. **Backend**
+1. **The Backend** (Laravel)
    
    This is laravel project, which is the main API, handling authenticated and API calls from news apis.
    To run it, follow steps below:
@@ -20,19 +20,19 @@ The **backend** (Laravel) and the frontend, in react... titled **frontend**
    4. Go to the terminal (bash) and run the following commands
 
       ```cmd
-      C:/Users/Example>cd path/to/clone
+      C:/Users/Example> cd path/to/clone
       ```
       
    5. Then in this project, execute the artisan command below to migrate the database
 
       ```cmd
-      C:/Users/Example>php artisan migrate
+      C:/Users/Example> php artisan migrate
       ```
 
    6. Now your migrations successful, you can make successfully serve the project as
 
       ```cmd
-      C:/Users/Example>php artisan serve
+      C:/Users/Example> php artisan serve
       ```
 
    7. You may now open the  app in browser on the link shown... for example
@@ -51,13 +51,19 @@ The **backend** (Laravel) and the frontend, in react... titled **frontend**
    3. In the bash (terminal), run below commands
   
        ```cmd
-      C:/Users/Example>cd path/to/clone/frontend
+      C:/Users/Example> cd path/to/clone/frontend
       ```
   
-       And then run
+       And once you are in the project, run
+  
+      ```cmd
+      C:/Users/Example> npm install
+      ```
+  
+      To install the dependencies listed in package.json... and finally run
       
        ```cmd
-      C:/Users/Example>npm run dev
+      C:/Users/Example> npm run dev
       ```
        
    5. After this, you should be able to see the url for the project
@@ -67,7 +73,7 @@ The **backend** (Laravel) and the frontend, in react... titled **frontend**
       http://localhost:3000
       ```
 
-   And now you start viewing the news
+   And now you can start viewing the news
    
 
 
