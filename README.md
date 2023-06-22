@@ -29,7 +29,7 @@ The **backend** (Laravel) and the frontend, in react... titled **frontend**
       C:\Users\Example> php artisan migrate
       ```
 
-   6. Now your migrations successful, you can make successfully serve the project as
+   6. If your migrations successful, you can then proceed to serve the project as
 
       ```cmd
       C:\Users\Example> php artisan serve
