@@ -3,7 +3,7 @@
     <img src="https://news.librarypure.com/images/read-news.png"/>
 </div>
 <h1 align="center">
-    The News Board
+    <a href="https://news.librarypure.com">The News Board</a>
 </h1>
 
 The are **2 projects** incorporated in this repository.
