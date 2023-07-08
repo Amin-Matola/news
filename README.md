@@ -3,8 +3,11 @@
     <img src="https://news.librarypure.com/images/read-news.png"/>
 </div>
 <h1 align="center">
-    <a href="https://news.librarypure.com">The News Board</a>
+    <a href="https://news.librarypure.com" target="_blank">The News Board</a>
 </h1>
+
+This project is news website, the collection of news articles from different sources (APIs).
+<br>This is a running, and hosted at <a href="https://news.librarypure.com" target="_blank">librarypure</a> platform, and below is the detailed documentation.
 
 The are **2 projects** incorporated in this repository.
 The **backend** (Laravel) and the frontend, in react... titled **frontend**
